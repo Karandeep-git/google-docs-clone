@@ -46,7 +46,7 @@ export const metadata: Metadata = {
     title: "Google Docs Clone | Real-Time Collaborative Editor",
     description:
       "Built with Next.js, TypeScript, Liveblocks, and Convex. Features live multi-user editing with sub-100ms sync, live cursors, rich text formatting, comments, and a templates gallery.",
-    url: "https://google-docs-project-ten.vercel.app/",
+    url: "https://google-docs-project-ten.vercel.app",
     siteName: "Google Docs Clone",
     type: "website",
   },
